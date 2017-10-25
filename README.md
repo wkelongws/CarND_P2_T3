@@ -28,13 +28,13 @@ Five sample test samples are shown below. More samples can be found in folder `r
 
 ![um_000007.png](./runs/test_samples/um_000007.png)
 
-![uu_000010.png](./runs/test_samples/uu_000010.png)
+![um_000010.png](./runs/test_samples/um_000010.png)
 
-![uu_000085.png](./runs/test_samples/uu_000085.png)
+![um_000085.png](./runs/test_samples/um_000085.png)
 
-![uu_000008.png](./runs/test_samples/uu_000008.png)
+![umm_000008.png](./runs/test_samples/umm_000008.png)
 
-![uu_000047.png](./runs/test_samples/uu_000047.png)
+![umm_000047.png](./runs/test_samples/umm_000047.png)
 
 
 ### Setup
